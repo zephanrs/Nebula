@@ -1,0 +1,36 @@
+{
+    "galaxy": [
+        {
+            "galaxyname":"Milky Way",
+            "planets": [
+                "earth",
+                "kepler-452b",
+                "gliese 876d"
+            ],
+            "mineran": 400,
+            "mineval": 601,
+            "hourly": 2500,
+            "daily": 10000,
+            "upcost": 200000
+        },
+        {
+            "galaxyname":"Andromeda",
+            "planets": [
+                "PA-99-N2",
+                "kepler-1442d",
+                "JA-131-K"
+            ],
+            "mineran": 600,
+            "mineval": 1001,
+            "hourly": 5000,
+            "daily": 15000,
+            "upcost": 500000
+        },
+        {
+            "galaxyname":"Whirlpool Galaxy",
+            "planets": [
+                "M51-ULS-1b"
+            ]
+        }
+    ]
+}
