@@ -20,7 +20,7 @@ client.once('ready', () => {
 	console.log('Ready!');
 });
 
-client.login('Nzc3NzQxMDg5NjQxNDYzODEx.X7H11Q.ckRsKGFPYcZ8GH36g9SH8TFmx3w');
+client.login('CLIENT TOKEN');
 
 client.on('ready', () => {
   client.user.setActivity('the stars', { type: "WATCHING" });
